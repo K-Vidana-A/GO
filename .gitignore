@@ -1,0 +1,26 @@
+# Библиотеки
+vendor/
+
+# Бинарные файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Тестовые бинарники
+*.test
+
+# Выходные директории
+out/
+dist/
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
